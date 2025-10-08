@@ -24,9 +24,19 @@ Luego de tener instalado Python podemos ejecutar los siguientes comandos en la c
 ```Terminal de comandos
 python --version
 pip --version
+git init
+git clone https://github.com/guevaraStian/Factura_Electronica_Blockchain.git
+git push origin master
+```
+
+Luego ingresamos a la carpeta creada y instalamos las librerias y ejecutamos el proyecto.
+
+```Terminal de comandos
 pip install flask werkzeug lxml hashlib pymongo
 python FEBlockchain.py
 ```
+
+
 Luego que el proyecto ya se este ejecutando, podemos verlo funcionar en la siguiente ruta url
 
 ```Pagina web
