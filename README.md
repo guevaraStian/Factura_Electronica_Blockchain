@@ -29,7 +29,7 @@ git clone https://github.com/guevaraStian/Factura_Electronica_Blockchain.git
 git push origin master
 ```
 
-Luego ingresamos a la carpeta creada y instalamos las librerias y ejecutamos el proyecto.
+Luego ingresamos a la carpeta creada e instalamos las librerias y ejecutamos el proyecto.
 
 ```Terminal de comandos
 pip install flask werkzeug lxml hashlib pymongo
