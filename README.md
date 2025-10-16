@@ -26,7 +26,7 @@ python --version
 pip --version
 git init
 git clone https://github.com/guevaraStian/Factura_Electronica_Blockchain.git
-cd Factura_Electronica_Blockchai
+cd Factura_Electronica_Blockchain
 git push origin master
 ```
 
