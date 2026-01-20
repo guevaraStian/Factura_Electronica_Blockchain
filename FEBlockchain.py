@@ -1,4 +1,7 @@
-# Libreria de FASK sive para
+# Software de facturacion electronica con tecnologia blockchain
+# Libreria de FLASK sive para crear una pagina web
+# En terminal de comandos ejecutar el siguiente codigo
+# pip install flask
 import os
 from flask import Flask, render_template, request, abort, jsonify
 from werkzeug.utils import secure_filename
