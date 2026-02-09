@@ -40,7 +40,7 @@ python FEBlockchain.py
 ```
 
 
-Luego que el proyecto ya se este ejecutando, podemos verlo funcionar en la siguiente ruta url.
+Luego que el proyecto ya se este ejecutando, podemos verlo funcionar en la siguiente ruta url local con el puerto asignado 5000
 
 ```Pagina web
 http://localhost:5000
