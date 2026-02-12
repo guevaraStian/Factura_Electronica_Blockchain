@@ -47,3 +47,28 @@ http://localhost:5000
 http://127.0.0.1:5000
 ```
 
+
+
+
+Cuando ya se este ejecutando el programa se vera la pagina inicial como la siguiente imagen donde se da la opción de subir una factura electrónica y extraer sus datos específicos.
+
+![Imagen1](images/Pagina_1.png)
+
+
+En la siguiente imagen se muestra en pantalla los bloques de datos creados en mongodb con encriptación.
+
+![Imagen2](images/Pagina_2.png)
+
+
+
+En la siguiente imagen se muestra como se guardan los bloques en mongodb.
+
+![Imagen3](images/Pagina_3.png)
+
+
+
+
+
+
+
+

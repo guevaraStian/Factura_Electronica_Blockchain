@@ -46,7 +46,7 @@ def uploader():
         col = db['Bloques']
 
         #Se guarda en la variable "colvacia" si la coleccion "Bloques" esta vacia
-        colvacia = (col.count() == 0)
+        colvacia = (col.find_one() is None)
         
         #Si "colvacia" es "true" el HashAnterior es "Genesis" y el NumeroBloque es 1
         if(colvacia == True):
