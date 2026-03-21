@@ -21,11 +21,15 @@ Vamos a la pagina web de MongoDb y descargamos el ejecutable y lo ejecutamos, lu
 ```Pagina web
 https://www.mongodb.com/es/products/tools/compass
 ```
-Luego de tener instalado Python podemos ejecutar los siguientes comandos en la carpeta del proyecto.
 
+Luego de tener instalado Python podemos ejecutar los siguientes comandos en la carpeta del proyecto.
 ```Terminal de comandos
 python --version
 pip --version
+```
+Luego de tener instalado Python procedemos a descargar los archivos dando click en el boton verde y dowload, otra forma de descargar el programa es con los siguientes comandos de consola.
+
+```Terminal de comandos
 git init
 git clone https://github.com/guevaraStian/Factura_Electronica_Blockchain.git
 cd Factura_Electronica_Blockchain
