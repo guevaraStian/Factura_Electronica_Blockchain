@@ -8,7 +8,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
+Este es un software que almacena datos de facturacion electronica en tecnologia blockchain, usando python y mongodb.
 Los pasos para poner en ejecución son los siguientes
 Ir a la pagina web de Python y Git, luego descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos.
 
