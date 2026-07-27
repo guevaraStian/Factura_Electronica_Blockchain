@@ -22,6 +22,24 @@ Vamos a la pagina web de MongoDb y descargamos el ejecutable y lo ejecutamos, lu
 https://www.mongodb.com/es/products/tools/compass
 ```
 
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
+
 Luego de tener instalado Python podemos ejecutar los siguientes comandos en la carpeta del proyecto.
 ```Terminal de comandos
 python --version
