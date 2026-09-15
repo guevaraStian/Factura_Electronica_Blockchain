@@ -45,7 +45,7 @@ Luego de tener instalado Python podemos ejecutar los siguientes comandos en la c
 python --version
 pip --version
 ```
-Luego de tener instalado Python continuamos instalando git luego de descargarlo de su pagina oficial y procedemos a descargar los archivos dando click en el boton verde y dowload, otra forma de descargar el programa es con los siguientes comandos de consola.
+Luego de tener instalado Python continuamos instalando git luego de descargarlo de su pagina oficial y procedemos a descargar los archivos dando click en el boton verde y dowload, otra forma de descargar el programa es con los siguientes comandos de consola, en cualquier sistema operativo.
 
 ```Terminal de comandos
 git init
